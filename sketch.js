@@ -10,5 +10,5 @@ function setup(){
 
 function draw() {
   background(0);
-
+drawsprites();
 }
